@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ngvh2605
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Viet Hoang Nguyen
+- 👀 Nice to e-meet you!
+- 🌱 I’m a front end developer
+- 💞️ I’m looking to collaborate
+- 📫 Reach me via my email: ngvh2605@gmail.com
 
 <!---
 ngvh2605/ngvh2605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
